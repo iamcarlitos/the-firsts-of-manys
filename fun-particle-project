@@ -2,12 +2,12 @@ import matplotlib.pyplot as plt
 
 # Set the functions for the Particles Decay (releasing Antiparticles)
 
-Prob = 0.11528  # probability of decaying
+Prob = 0.0.110312  # probability of decaying
 TimeS = 1  # The time-step for the decay (1 minute)
 
 # Make the Loop
 
-Particle = 280000  # Number of positrons that an 80 kg man emits per hour!
+Particle = 200000  # Number of atoms that an 80 kg man emits per hour of!
 Time = 0  # Start of time (0 minutes)
 
 Particle_List = []  # store the value of particles with relationship to time
