@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 # Set the functions for the Particles Decay (releasing Antiparticles)
 
-Prob = 0.0.110312  # probability of decaying
+Prob = 0.110312  # probability of decaying
 TimeS = 1  # The time-step for the decay (1 minute)
 
 # Make the Loop
