@@ -7,7 +7,7 @@ TimeS = 1  # The time-step for the decay (1 minute)
 
 # Make the Loop
 
-Particle = 200000  # Number of atoms that an 80 kg man emits per hour of!
+Particle = 200000  # Number of atoms that an 80 kg man emits per hour!
 Time = 0  # Start of time (0 minutes)
 
 Particle_List = []  # store the value of particles with relationship to time
