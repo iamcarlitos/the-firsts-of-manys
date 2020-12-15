@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 # Set the functions for the Particles Decay (releasing Antiparticles)
 
 Prob = 0.110312  # probability of decaying
-TimeS = 1  # The time-step for the decay (1 minute)
+TimeM = 1  # The time-step for the decay (1 minute)
 
 # Make the Loop
 
@@ -15,8 +15,8 @@ Time_List = []  # the amount of time that passes for a particle to decay
 
 while Time <= 60:  # 60 minutes
     print(Time, Particle)
-    Particle += -Particle * Prob * TimeS
-    Time += TimeS
+    Particle += -Particle * Prob * TimeM
+    Time += TimeM
     Particle_List.append(Particle)
     Time_List.append(Time)
 
