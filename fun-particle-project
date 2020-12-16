@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 '''
 We will simulate and graph (Beta +) Decay of Potassium 40! (K-40)
 
-The 70 kg man emits approximately 150-180 positrons per hour! 
+The 70 kg man emits approximately 160-180 positrons per hour! 
 
 '''
 
