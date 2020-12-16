@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 '''
 We will simulate and graph (Beta +) Decay of Potassium 40! (K-40)
 
-The 70 kg man emits approximately 15-20 positrons per hour of (Beta +) Decay! 
+The 70 kg man emits approximately 160-180 positrons per hour of (Beta +) Decay! 
 
 '''
 
@@ -14,7 +14,7 @@ TimeM = 1  # The time-step for the decay (1 minute)
 
 # Make the Loop
 
-Particle = 22000  # Number of K-40 atoms that an 70 kg man emits per minute from (Beta +) Decay!
+Particle = 200000  # Number of K-40 atoms that an 70 kg man emits per minute from (Beta +) Decay!
 Time = 0  # Start of time (0 minutes)
 
 Particle_List = []  # store the value of particles with relationship to time
