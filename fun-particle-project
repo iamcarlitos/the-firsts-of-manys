@@ -31,6 +31,6 @@ while Time <= 60:  # 60 minutes
 
 plt.plot(Time_List, Particle_List, "-r")
 plt.xlabel("Time (m) ")
-plt.ylabel("Number")
+plt.ylabel("Particles")
 plt.savefig("decay.png", dpi=300)
 plt.show()
