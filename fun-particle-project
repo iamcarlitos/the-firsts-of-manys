@@ -1,13 +1,20 @@
 import matplotlib.pyplot as plt
 
-# Set the functions for the Particles Decay (releasing Antiparticles)
+'''
+We will simulate and graph (Beta +) Decay of Potassium 40! (K-40)
 
-Prob = 0.110312  # probability of decaying
+The 70 kg man emits approximately 150-180 positrons per hour! 
+
+'''
+
+# Set the functions for the Particles Decay (releasing Positrons)
+
+Prob = 0.110312  # Probability of (Beta +) Decay in K-40
 TimeM = 1  # The time-step for the decay (1 minute)
 
 # Make the Loop
 
-Particle = 200000  # Number of K-40 atoms that a 70 kg man emits per minute!
+Particle = 200000  # Number of K-40 atoms that an 70 kg man emits per minute!
 Time = 0  # Start of time (0 minutes)
 
 Particle_List = []  # store the value of particles with relationship to time
@@ -19,7 +26,6 @@ while Time <= 60:  # 60 minutes
     Time += TimeM
     Particle_List.append(Particle)
     Time_List.append(Time)
-
 
 # Plot the graph for particle decay
 
