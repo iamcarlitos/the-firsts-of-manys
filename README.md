@@ -8,6 +8,8 @@
 
 # 80 kg man emits 180 positrons per hour!
 
+# This project is specifically on Beta + Decay of K-40, so the numbers here are for combined (Beta +) and (Beta -) Decay!
+
 # If you want to use the code, please notify me about it! If you do, I'll be happy to give you permission! 
 
 # <3
