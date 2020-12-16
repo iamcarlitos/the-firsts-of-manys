@@ -8,4 +8,6 @@
 
 # 80 kg man emits 180 positrons per hour!
 
+# If you want to use the code, please notify me about it! If you do, I'll be happy to give you permission! 
+
 # <3
