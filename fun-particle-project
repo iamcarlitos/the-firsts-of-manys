@@ -1,14 +1,5 @@
 import matplotlib.pyplot as plt
 
-'''
-We will simulate and graph (Beta +) Decay of Potassium 40! (K-40)
-
-The 70 kg man emits approximately 4000-5250 positrons per day!
-
-This means that for every hour, humans emit 170-210 positrons per hour!
-
-'''
-
 # Set the functions for the Particles Decay (releasing Positrons)
 
 Prob = .1072  # Probability of (Beta +) Decay in K-40
