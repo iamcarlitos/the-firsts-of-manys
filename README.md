@@ -6,7 +6,7 @@
 
 # 200,000 + atoms of K-40 decay in the body each MINUTE!
 
-# 80 kg man emits 180 positrons per hour!
+# 80 kg man emits 170-210 positrons per hour!
 
 # This project is specifically on Beta + Decay of K-40, so the numbers here are for combined (Beta +) and (Beta -) Decay!
 
