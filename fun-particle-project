@@ -29,9 +29,9 @@ while Time <= 60:  # 60 seconds
 
 # Plot the graph for particle decay
 
-plt.plot(Time_List, Particle_List, "-r")
-plt.xlabel("Time (m) ")
-plt.ylabel("Particles")
-plt.savefig("decay.png", dpi=300)
-plt.show()
+plt.plot(Time_List, Particle_List, "-r") # plot the names of the coordinates
+plt.xlabel("Time (sec) ")  # x-coordinate
+plt.ylabel("Particles")  # y-coordinate
+plt.savefig("decay.png", dpi=300)  # save the plot and add the Dots per Inches (DPI)
+plt.show()  # Your Graph! 
 
