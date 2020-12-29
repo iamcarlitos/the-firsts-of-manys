@@ -20,7 +20,7 @@ Time = 0  # Start of time (0 seconds)
 Particle_List = []  # store the value of particles with relationship to time
 Time_List = []  # the amount of time that passes for a particle to decay
 
-while Time <= 60:  # 60 seconds
+while Time <= 60:  # 60 minutes
     Particle_List.append(Particle)
     Time_List.append(Time)
     print(Time, Particle)
